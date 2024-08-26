@@ -26,8 +26,8 @@ https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
         <video controls>
             <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211" type="video/mp4">
             Your browser does not support the video tag.
-        <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211/video.mp4" type="video/mp4">
-    </div>
+            <source src="https://github.com/user-attachments/assets/e277e130-2851-4893-b75d-df3a5d76c1f3" type="video/mp4">
+            Your browser does not support the video tag.
 
     <!-- Third Section: Bir yera barganda tushgan rasimlar -->
     <div id="bir-yera-barganda-tushgan-rasimlar">
