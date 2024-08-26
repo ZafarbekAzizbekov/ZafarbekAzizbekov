@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
         <video controls>
             <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211" type="video/mp4">
             Your browser does not support the video tag.
-        </video>
+        <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211/video.mp4" type="video/mp4">
     </div>
 
     <!-- Third Section: Bir yera barganda tushgan rasimlar -->
