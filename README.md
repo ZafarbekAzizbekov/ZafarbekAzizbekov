@@ -35,13 +35,14 @@ https://github.com/user-attachments/assets/fc894588-563e-4db8-a5c4-7aeb8a94a696
         <source src="https://github.com/user-attachments/assets/e277e130-2851-4893-b75d-df3a5d76c1f3" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-       <!-- third Video -->
-           <h2>Video 1</h2>
+    <!-- Third Video -->
+    <h2>Video 3</h2>
     <video controls>
-<source src="https://github.com/user-attachments/assets/fc894588-563e-4db8-a5c4-7aeb8a94a696' type="video/mp4">
+        <source src="https://github.com/user-attachments/assets/fc894588-563e-4db8-a5c4-7aeb8a94a696" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    </div>
+</div>
+ 
     
     <!-- Third Section: Bir yera barganda tushgan rasimlar -->
     <div id="bir-yera-barganda-tushgan-rasimlar">
