@@ -53,3 +53,12 @@ https://github.com/user-attachments/assets/fc894588-563e-4db8-a5c4-7aeb8a94a696
 </div>
 </body>
 </html>
+
+<!-- Movies Section -->
+<div id="movies">
+    <h2>Movies</h2>
+    <video controls>
+        <source src="https://drive.google.com/uc?export=download&id=1XN7H6Pyy5gerz_MUQ4Rx9YfnAOrpSUuL" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
