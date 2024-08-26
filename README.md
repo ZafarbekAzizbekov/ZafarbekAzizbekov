@@ -35,6 +35,13 @@ https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
         Your browser does not support the video tag.
     </video>
 </div>
+<!-- Third Video -->
+    <h2>Video 3</h2>
+        <video controls>
+                <source src="https://example.com/path/to/your-third-video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+            </video>
+        </div>
 
     <!-- Third Section: Bir yera barganda tushgan rasimlar -->
     <div id="bir-yera-barganda-tushgan-rasimlar">
