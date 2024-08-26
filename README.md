@@ -28,7 +28,13 @@ https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
             Your browser does not support the video tag.
             <!-- Second Section: Video -->
 <div id="video">
-    <h2>Video</h2>
+    <h2>Video 1</h2>
+    <video controls>
+        <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    
+    <h2>Video 2</h2>
     <video controls>
         <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211" type="video/mp4">
         Your browser does not support the video tag.
