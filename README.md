@@ -20,19 +20,23 @@ https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
         <p>This is the zapal section.</p>
     </div>
 
-    <!-- Second Section: Vido -->
-    <div id="vido">
-        <h2>Vido</h2>
-        <video controls>
-            <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211" type="video/mp4">
-            Your browser does not support the video tag.
-            <!-- Second Section: Video -->
+    <!-- Second Section: Video -->
 <div id="video">
+    <!-- First Video -->
     <h2>Video 1</h2>
     <video controls>
         <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211" type="video/mp4">
         Your browser does not support the video tag.
     </video>
+
+    <!-- Second Video -->
+    <h2>Video 2</h2>
+    <video controls>
+        <source src="https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
     
     <h2>Video 2</h2>
     <video controls>
