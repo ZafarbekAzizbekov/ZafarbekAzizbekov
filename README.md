@@ -6,6 +6,7 @@ Zafarbek, Azizbek, doniyor pedafil, jasur. ars jalllllllaaaaaaaaaa.
 ![photo_2024-07-31_20-53-04](https://github.com/user-attachments/assets/6db6bca1-75d3-45f3-81d2-a8c3e879e01f)
 https://github.com/user-attachments/assets/e277e130-2851-4893-b75d-df3a5d76c1f3
 https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
+https://github.com/user-attachments/assets/fc894588-563e-4db8-a5c4-7aeb8a94a696
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,15 +35,14 @@ https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
         <source src="https://github.com/user-attachments/assets/e277e130-2851-4893-b75d-df3a5d76c1f3" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-</div>
-<!-- Third Video -->
-    <h2>Video 3</h2>
-        <video controls>
-                <source src="https://example.com/path/to/your-third-video.mp4" type="video/mp4">
+       <!-- third Video -->
+           <h2>Video 1</h2>
+    <video controls>
+<source src="https://github.com/user-attachments/assets/fc894588-563e-4db8-a5c4-7aeb8a94a696' type="video/mp4">
         Your browser does not support the video tag.
-            </video>
-        </div>
-
+    </video>
+    </div>
+    
     <!-- Third Section: Bir yera barganda tushgan rasimlar -->
     <div id="bir-yera-barganda-tushgan-rasimlar">
         <h2>Bir Yera Barganda Tushgan Rasimlar</h2>
