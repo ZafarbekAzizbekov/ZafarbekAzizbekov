@@ -4,7 +4,6 @@
 Zafarbek, Azizbek, doniyor pedafil, jasur. ars jalllllllaaaaaaaaaa. 
 ![photo_2024-05-25_20-14-07](https://github.com/user-attachments/assets/7700c347-a7eb-4a0b-a07c-364ec2607204)
 ![photo_2024-07-31_20-53-04](https://github.com/user-attachments/assets/6db6bca1-75d3-45f3-81d2-a8c3e879e01f)
-![photo_2024-08-26_18-17-43](https://github.com/user-attachments/assets/5704befe-c460-405d-b65c-c4c680b25782)
 https://github.com/user-attachments/assets/e277e130-2851-4893-b75d-df3a5d76c1f3
 https://github.com/user-attachments/assets/9f6a9422-1de4-4b01-921a-c1498af2f211
 https://github.com/user-attachments/assets/fc894588-563e-4db8-a5c4-7aeb8a94a696
