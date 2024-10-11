@@ -11,7 +11,7 @@
 
             if (isAllowed) {
                 // Redirect to your website if age is 18 or older
-                window.location.href = "https://zafarbekazizbekov.github.io/ZafarbekAzizbekov/";
+                window.location.href = "https://zafarbekazizbekov.github.io/ZafarbekAzizbekov/#vido-1";
             } else {
                 alert("Kechirasiz, saytda kirish uchun 18 yoshda bo'lishingiz kerak.");
             }
@@ -23,6 +23,7 @@
     <button onclick="checkAge()">Enter Age</button> <!-- Button to trigger age check -->
 </body>
 </html>
+
 
 
 
