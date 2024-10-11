@@ -5,22 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Age Verification</title>
     <script>
-        function checkAge() {
+        window.onload = function() {
             const age = prompt("Yoshingiz nechida?");
             const isAllowed = age >= 18;
 
             if (isAllowed) {
-                // Redirect to your website if age is 18 or older
                 window.location.href = "https://zafarbekazizbekov.github.io/ZafarbekAzizbekov/#vido-1";
             } else {
                 alert("Kechirasiz, saytda kirish uchun 18 yoshda bo'lishingiz kerak.");
             }
-        }
+        };
     </script>
 </head>
 <body>
     <h1>Welcome to My Website</h1>
-    <button onclick="checkAge()">Enter Age</button> <!-- Button to trigger age check -->
 </body>
 </html>
 
