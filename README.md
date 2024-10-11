@@ -6,22 +6,24 @@
     <title>Age Verification</title>
     <script>
         function checkAge() {
-            const age = prompt("Yoshing nichada dalbayop ahir?");
+            const age = prompt("Yoshingiz nechida?");
             const isAllowed = age >= 18;
 
             if (isAllowed) {
                 // Redirect to your website if age is 18 or older
                 window.location.href = "https://zafarbekazizbekov.github.io/ZafarbekAzizbekov/#vido-1";
             } else {
-                alert("Sorry, miyasi yo'q 18 yosh bo'lishing garak ahir sayta girish uchun.");
+                alert("Kechirasiz, saytda kirish uchun 18 yoshda bo'lishingiz kerak.");
             }
         }
     </script>
 </head>
-<body onload="checkAge()">
+<body>
     <h1>Welcome to My Website</h1>
+    <button onclick="checkAge()">Enter Age</button> <!-- Button to trigger age check -->
 </body>
 </html>
+
 
 
 - 👋 Hi, I’m @ZafarbekAzizbekov
