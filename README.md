@@ -3,27 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Age Check</title>
-</head>
-<body>
-    <h1 id="welcome-message"></h1>
-
+    <title>Age Verification</title>
     <script>
-        // Prompt the user to enter their age
-        var age = prompt("What's your age?");
+        function checkAge() {
+            const age = prompt("Yoshing nichada dalbayop ahir?");
+            const isAllowed = age >= 18;
 
-        // Convert the input to a number
-        age = parseInt(age);
-
-        // Check if the user is 18 or older
-        if (age >= 18) {
-            document.getElementById('welcome-message').textContent = "Welcome to My Website!";
-        } else {
-            document.getElementById('welcome-message').textContent = "Sorry, you must be at least 18 years old to access this feature.";
+            if (isAllowed) {
+                // Redirect to your website if age is 18 or older
+                window.location.href = "https://zafarbekazizbekov.github.io/ZafarbekAzizbekov/#vido-1";
+            } else {
+                alert("Sorry, miyasi yo'q 18 yosh bo'lishing garak ahir sayta girish uchun.");
+            }
         }
     </script>
+</head>
+<body onload="checkAge()">
+    <h1>Welcome to My Website</h1>
 </body>
 </html>
+
 
 - 👋 Hi, I’m @ZafarbekAzizbekov
 - 👀 Hentai, azgina porna qiziqadilar, bir donasi inglzi tlinid biladi, birsia asa o'rtadan barish sevadi
